@@ -12,7 +12,7 @@ Hello! I'm Matheus Moura, student from Salvador-BA, Brazil, currently in the 6th
 ![Git](https://img.shields.io/badge/-Git-238E68?style=for-the-badge&logo=git&logoColor=000)
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheusmstorm&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=238E68&title_color=FFFF00&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FFFF00&theme=transparent)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheusmstorm&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=238E68&title_color=000&text_color=FFF&border_radius=3&border_color=36123c&icon_color=000&theme=transparent)
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-23238E?style=for-the-badge&logo=linkedin&logoColor=FFFF00)](https://www.linkedin.com/in/matheus-moura-rodrigues-costa/)
