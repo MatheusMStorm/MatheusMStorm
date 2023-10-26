@@ -8,11 +8,11 @@ Hello! I'm Matheus Moura, student from Salvador-BA, Brazil, currently in the 6th
 ![MySQL](https://img.shields.io/badge/-MySQL-238E68?style=for-the-badge&logo=mysql&logoColor=000)
 
 ## Tools
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-00FF00?style=for-the-badge&logo=visual%20studio%20code&logoColor=000)
-![Git](https://img.shields.io/badge/-Git-00FF00?style=for-the-badge&logo=git&logoColor=000)
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-238E68?style=for-the-badge&logo=visual%20studio%20code&logoColor=000)
+![Git](https://img.shields.io/badge/-Git-238E68?style=for-the-badge&logo=git&logoColor=000)
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheusmstorm&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=00FF00&title_color=FFFF00&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FFFF00&theme=transparent)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=matheusmstorm&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=238E68&title_color=FFFF00&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FFFF00&theme=transparent)
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-23238E?style=for-the-badge&logo=linkedin&logoColor=FFFF00)](https://www.linkedin.com/in/matheus-moura-rodrigues-costa/)
