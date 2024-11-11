@@ -1,6 +1,8 @@
 # Matheus Moura
 
-Hello! I'm Matheus Moura, student from Salvador-BA, Brazil, currently in the 8th semester of the Computer Engineering course. I had my first contact with programming languages in 2021, when I started to learn C, then I decided to learn Python and Java and now I will start to learn about HTML, CSS and JavaScript. My favorite hobbies are games, listening to music and (obviously) programming.
+Estudante de Engenharia da Computação na Universidade Salvador, cursando o 8º semestre. Estou me capacitando na área de desenvolvimento de software, tendo conhecimento em linguagens como Java, Python e JavaScript.
+
+Estou sempre motivado a aprender coisas novas e me manter atualizado no mundo da tecnologia. Prezo muito pela organização e pela eficiência, e consigo me adaptar rapidamente a diversas situações, a fim de contribuir para sempre alcançar os melhores resultados..
 
 ## Hard skills
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
