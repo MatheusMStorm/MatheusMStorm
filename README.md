@@ -1,8 +1,11 @@
 # Matheus Moura
 
+<p align='justify'>
 Estudante de Engenharia da Computação na Universidade Salvador, cursando o 8º semestre. Estou me capacitando na área de desenvolvimento de software, tendo conhecimento em linguagens como Java, Python e JavaScript.
 
-Estou sempre motivado a aprender coisas novas e me manter atualizado no mundo da tecnologia. Prezo muito pela organização e pela eficiência, e consigo me adaptar rapidamente a diversas situações, a fim de contribuir para sempre alcançar os melhores resultados..
+Estou sempre motivado a aprender coisas novas e me manter atualizado no mundo da tecnologia. Prezo muito pela organização e pela eficiência, e consigo me adaptar rapidamente a diversas situações, a fim de contribuir para sempre alcançar os melhores resultados.
+</p>
+
 
 ## Hard skills
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
