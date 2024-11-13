@@ -20,6 +20,7 @@ Estudante de Engenharia da Computação na Universidade Salvador, cursando o 8º
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusmstorm&show_icons=true&theme=dracula)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmstorm&layout=compact&theme=dracula)
 
 ## Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dev.matheusmoura/)
