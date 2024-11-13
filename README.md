@@ -19,8 +19,8 @@ Estudante de Engenharia da Computação na Universidade Salvador, cursando o 8º
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
 ## GitHub Stats
-<div align='justify' style='margin: 10px;'>
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=matheusmstorm&show_icons=true&theme=dracula" />
+<div align='justify'>
+  <img height=170 align="center" style='margin: 5px;' src="https://github-readme-stats.vercel.app/api?username=matheusmstorm&show_icons=true&theme=dracula" />
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmstorm&hide_progress=true&theme=dracula" />
 </div>
 
