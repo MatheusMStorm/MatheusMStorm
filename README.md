@@ -20,8 +20,8 @@ Estudante de Engenharia da Computação na Universidade Salvador, cursando o 8º
 
 ## GitHub Stats
 <div align='justify'>
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=matheusmstorm&show_icons=true&theme=dracula" />
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmstorm&hide_progress=true&theme=dracula" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=matheusmstorm&show_icons=true&theme=dracula" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmstorm&hide_progress=true&theme=dracula" />
 </div>
 
 ## Connect with me
