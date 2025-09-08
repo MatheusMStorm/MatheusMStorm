@@ -1,7 +1,7 @@
 <h2 style="font-weight:bold;">Matheus Moura</h2>
 
 <p align='justify'>
-Olá! Meu nome é Matheus Moura, estudante do 9º semestre de Engenharia da Computação na UNIFACS. Estou me capacitando na área de desenvolvimento de software, tendo conhecimento em linguagens como Java, Python e JavaScript. Estou sempre motivado a aprender coisas novas e me manter atualizado no mundo da tecnologia. Prezo muito pela organização e pela eficiência, e consigo me adaptar rapidamente a diversas situações, a fim de contribuir para sempre alcançar os melhores resultados.
+Olá! Meu nome é Matheus Moura, estagiário do time de Product Development na Ford Motor Company e estudante do 10º semestre de Engenharia da Computação na UNIFACS. Sou apaixonado pela área de desenvolvimento de software e de sistemas e, graças a minha experiência acadêmica, adquiri proficiência com programação em Python e Java, arquitetura de sistemas e resolução de problemas de engenharia. Prezo muito pela organização e pela eficiência, e consigo me adaptar rapidamente a diversas situações, a fim de contribuir para sempre alcançar os melhores resultados. Meus principais hobbies são: jogar videogame 🎮, ver bons filmes 🎥 e acompanhar futebol ⚽ e Fórmula 1 🏎️.
 </p>
 
 
@@ -33,5 +33,5 @@ Olá! Meu nome é Matheus Moura, estudante do 9º semestre de Engenharia da Comp
 </div>
 
 ## Connect with me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dev.matheusmoura/)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-matheusmoura/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_matheus.mrc/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eng-matheusmoura/)
