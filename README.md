@@ -1,7 +1,7 @@
 <h2 style="font-weight:bold;">Matheus Moura</h2>
 
 <p align='justify'>
-Olá! Meu nome é Matheus Moura, estagiário do time de Product Development na Ford Motor Company e estudante do 10º semestre de Engenharia da Computação na UNIFACS. Sou apaixonado pela área de desenvolvimento de software e de sistemas e, graças a minha experiência acadêmica, adquiri proficiência com programação em Python e Java, arquitetura de sistemas e resolução de problemas de engenharia. Prezo muito pela organização e pela eficiência, e consigo me adaptar rapidamente a diversas situações, a fim de contribuir para sempre alcançar os melhores resultados. Meus principais hobbies são: jogar videogame 🎮, ver bons filmes 🎥 e acompanhar futebol ⚽ e Fórmula 1 🏎️.
+Olá! Meu nome é Matheus Moura, atualmente trabalho como Analista de Produto na Ford, com formação em Engenharia da Computação pela UNIFACS e atualmente pós-graduando na área de Computação Quântica. Sou apaixonado pela área de desenvolvimento de software e de sistemas e, graças a minha experiência acadêmica, adquiri proficiência com programação em Python e Java, arquitetura de sistemas e resolução de problemas de engenharia. Além disso, gosto muito da área da pesquisa acadêmica, na qual estou envolvido há 2 anos e com artigos em fase de submissão sobre a área da Computação Quântica. Prezo muito pela organização e pela eficiência, e consigo me adaptar rapidamente a diversas situações, a fim de contribuir para sempre alcançar os melhores resultados. Meus principais hobbies são: jogar videogame 🎮, ver bons filmes 🎥 e acompanhar futebol ⚽ e Fórmula 1 🏎️.
 </p>
 
 
